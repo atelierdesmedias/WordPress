@@ -1,5 +1,5 @@
-[submodule "wp-content/themes/wp-admtheme"]
-	path = wp-content/themes/wp-admtheme
+[submodule "wp-content/themes/adm"]
+	path = wp-content/themes/adm
 	url = https://github.com/atelierdesmedias/wp-admtheme
 [submodule "wp-content/plugins/wp-xwiki-adm"]
 	path = wp-content/plugins/wp-xwiki-adm
