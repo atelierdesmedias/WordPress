@@ -6,7 +6,10 @@ This wordpress fork is dedicated for the ADM website: http://www.atelier-medias.
 Installation
 ------------
 
-    git clone https://github.com/atelierdesmedias/WordPress
+    sudo apt-get install apache2 php5 mysql-server libapache2-mod-php5 php5-mysql
+
+    git clone https://github.com/atelierdesmedias/WordPress adm
+    cd adm
     git submodule init
     git submodule update
 
