@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/wp-admtheme"]
+	path = wp-content/themes/wp-admtheme
+	url = https://github.com/atelierdesmedias/wp-admtheme
