@@ -1,0 +1,23 @@
+@import "../_mixins";
+@import "../_variables";
+
+
+// FOOTER
+// -----------------------------
+footer {
+    margin-top:35px;
+}
+#footer-links{
+	width:50%;
+	padding-right:7%;
+	text-align:right;
+}
+
+#footer-text{
+	font-size:14px;
+	color:#848484;
+	line-height:5%;
+	text-align:left;
+	
+}
+
