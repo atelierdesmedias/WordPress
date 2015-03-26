@@ -1,0 +1,13 @@
+Wordpress for ADM
+=================
+
+This wordpress fork is dedicated for the ADM website: http://www.atelier-medias.org
+
+Installation
+------------
+
+    git clone https://github.com/atelierdesmedias/WordPress
+    git submodule init
+    git submodule update
+
+
